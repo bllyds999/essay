@@ -3368,5 +3368,25 @@
       "出门",
       "创造"
     ]
+  },
+  {
+    "date": "2026-06-08 23:02:27",
+    "content": "最近吃云吞了，请大家吃云吞！\n<img src=\"/assets/images/illustrations/food-1.webp\">",
+    "key": "339",
+    "tags": [
+      "美食",
+      "日常",
+      "云吞"
+    ]
+  },
+  {
+    "date": "2026-06-08 23:02:45",
+    "content": "时隔一个月，我梁栋烨又来吃薯片啦！\n<img src=\"/assets/images/illustrations/snacks-3.webp\">",
+    "key": "340",
+    "tags": [
+      "日常",
+      "美食",
+      "开心"
+    ]
   }
 ]
